@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "cheerio": "^1.0.0",
+    "csv-writer": "^1.6.0",
     "got": "^14.4.5",
     "playwright": "^1.50.0"
   }
