@@ -1,0 +1,3 @@
+vtl-pr-review-card__content  >  vtl-pr-review-card__details > vtl-pr-review-card__review-author-wrapper > vtl-pr-review-card__review-author > span > AUTHOR NAME
+vtl-pr-review-card__content  >  vtl-pr-review-card__details > vtl-pr-review-card__review-text > REVIEW
+vtl-pr-review-card__content  >  vtl-pr-review-card__content > vtl-pr-review-card__main-photo-holder> div > img REVIEW PHOTO
